@@ -31,7 +31,7 @@ export default function Twitter() {
     return (
       <Suspense fallback={renderLoader()}>
         <div className="tw-main-div" id="twitter">
-          <div className="centerContent">
+          {/* <div className="centerContent">
             <TwitterTimelineEmbed
               sourceType="profile"
               screenName={twitterDetails.userName}
@@ -44,7 +44,7 @@ export default function Twitter() {
               noFooter={true}
               onload={timeOut()}
             />
-          </div>
+          </div> */}
         </div>
       </Suspense>
     );
