@@ -226,17 +226,17 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-    {
-      image: require("./assets/images/simvictus.png"),
-      projectName: "Simvictus",
-      projectDesc: "Simvictus is an e-commerce platform dedicated to gaming, offering a range of products tailored to gamers. It likely provides gaming hardware, accessories, and possibly digital content such as games and tools. that is also focused on delivering quality gaming.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://simvictus.com/"
-        }
-      ]
-    },
+    // {
+    //   image: require("./assets/images/simvictus.png"),
+    //   projectName: "Simvictus",
+    //   projectDesc: "Simvictus is an e-commerce platform dedicated to gaming, offering a range of products tailored to gamers. It likely provides gaming hardware, accessories, and possibly digital content such as games and tools. that is also focused on delivering quality gaming.",
+    //   footerLink: [
+    //     {
+    //       name: "Visit Website",
+    //       url: "https://simvictus.com/"
+    //     }
+    //   ]
+    // },
     {
       image: require("./assets/images/Aire.png"),
       projectName: "Aire Health",
