@@ -14,6 +14,13 @@
   flex: 1;
   margin-bottom: 30px;
 }
+@media (max-width: 768px) {
+  .skills-main-div {
+      margin-bottom: 10px;
+
+    // gap: 5px;/* Mobile: stacked vertically */
+  }
+}
 
 .skills-image-div > img {
   max-width: 100%;

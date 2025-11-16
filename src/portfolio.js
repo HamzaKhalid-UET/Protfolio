@@ -34,7 +34,8 @@ const greeting = {
 
 const socialMediaLinks = {
   // github: "https://github.com/saadpasta",
-  linkedin: "www.linkedin.com/in/hamzakhalid321",
+  // linkedin: "www.linkedin.com/in/hamzakhalid321/",
+ linkedin:"https://www.linkedin.com/in/hamzakhalid321",
   gmail: "hamzakhalid.654@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
