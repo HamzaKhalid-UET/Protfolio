@@ -34,9 +34,23 @@
   margin-bottom: 40px;
 }
 
+// .button-greeting-div {
+//   display: flex;
+
+//   margin-top: 40px;
+// }
 .button-greeting-div {
   display: flex;
+  flex-direction: row;   /* Desktop: items side by side */
   margin-top: 40px;
+  gap: 10px;
+}
+
+@media (max-width: 768px) {
+  .button-greeting-div {
+    flex-direction: column; 
+    gap: 5px;/* Mobile: stacked vertically */
+  }
 }
 .download-link-button {
   text-decoration: none;
