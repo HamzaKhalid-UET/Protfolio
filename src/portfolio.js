@@ -195,7 +195,7 @@ const workExperiences = {
       company: "Systems",
       companylogo: require("./assets/images/systemslogo.jpeg"),
       date: "May 2022 – Feb 2023",
-      desc: " I worked as a Front-End Developer at Syatems. I was responsible for developing and maintaining web applications using HTML, CSS, JavaScript, and React.js.",
+      desc: " I worked as a Front-End Developer at Sysems. I was responsible for developing and maintaining web applications using HTML, CSS, JavaScript, and React.js.",
     },
     
   ]
